@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">mealDatabase_w1854525</string>
+    <string name="add_meals_to_db">Add Meals to Database</string>
+    <string name="search_for_meals_by_ingredient">Search for Meals By Ingredient</string>
+    <string name="search_for_meals">Search for Meals</string>
+    <string name="search_by_ingredient">Search By Ingredient</string>
+    <string name="retrieve_meals">Retrieve Meals</string>
+    <string name="save_meals_to_database">Save Meals to Database</string>
+    <string name="meal_database">Meal Database</string>
+    <string name="enter_ingredient">Enter Ingredient</string>
+    <string name="MY_API_KEY">1</string>
+    <string name="previous_meal">Previous Meal</string>
+    <string name="next_meal">Next Meal</string>
+    <string name="none_found">No meals found with this ingredient</string>
+    <string name="enter_meal">Enter Meal</string>
+    <string name="search_by_meal">Search By Meal</string>
+    <string name="search">Search</string>
+    <string name="no_match">No matches found by this meal name</string>
+    <string name="search_web_service">Search Web Service</string>
+    <string name="no_save">There are no meals to be saved</string>
+    <string name="no_match_meal_or_ingredient">No match found in meal names or ingredients</string>
+</resources>
