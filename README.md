@@ -19,7 +19,7 @@ This project was coursework for my second year module: Mobile Application Develo
 * You are not allowed to use third-party libraries. The only libraries that you can
 use are the standard Android API libraries.
 * The application developed will be helping users with meal preparation.
-* The application will be using the [themealdb](https://www.themealdb.com/api.php/) Web service and
+* The application will be using [themealdb](https://www.themealdb.com/api.php/) Web service and
 the Room Library to save information about meals.
 
 ### Requirements
