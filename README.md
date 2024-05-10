@@ -6,13 +6,13 @@ By [Sam Clark](https://github.com/SamC95)
 This project was coursework for my second year module: Mobile Application Development - at the University of Westminster
 
 ## Contents
-* [Project Brief]()
-* [Technologies]()
-* [Implementation]()
-* [Key Learnings]()
-* [Achievements]()
-* [Challenges]()
-* [Conclusions]()
+* [Project Brief](https://github.com/SamC95/Kotlin_MealDatabase/tree/master#project-brief)
+* [Technologies](https://github.com/SamC95/Kotlin_MealDatabase/tree/master#technologies)
+* [Implementation](https://github.com/SamC95/Kotlin_MealDatabase/tree/master#implementation)
+* [Key Learnings](https://github.com/SamC95/Kotlin_MealDatabase/tree/master#key-learnings)
+* [Achievements](https://github.com/SamC95/Kotlin_MealDatabase/tree/master#achievements)
+* [Challenges](https://github.com/SamC95/Kotlin_MealDatabase/tree/master#challenges)
+* [Conclusions](https://github.com/SamC95/Kotlin_MealDatabase/tree/master#conclusions)
 
 ## Project Brief
 * You are required to implement an Android application using Kotlin.
